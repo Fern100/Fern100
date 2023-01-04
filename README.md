@@ -11,8 +11,6 @@
 -Git e Github
 
 *😊Projetos*
--Simulador de partidas(em andamento)
--Gestor de projetos(em andamento)
 -Simulador de dados
 -Calculadora
 -Health.me
